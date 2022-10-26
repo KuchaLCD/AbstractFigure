@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5oXIyM7VGSV/LfBP45RWDI9H+Azb6rCCKN+P3yg+KdOdxodfneg+tlEABOsH9EstKTTiUU4bacs0cx+oCXYF5w==",
+  "dgSpecHash": "p6Ko0W6DvRYpc6wUJRtFNKhOPrugb/7g6N2qicURgcvQzunOAMdTSqx+6sRPA4lhspSg1Q5tk16CQmstJBTTTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\CATAT\\source\\repos\\Figure\\Figure\\Figure.csproj",
+  "projectFilePath": "C:\\Users\\CATAT\\AbstractFigure\\Figure\\Figure\\Figure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

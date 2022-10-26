@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CATAT\\source\\repos\\Figure\\Figure\\Figure.csproj",
+      "projectUniqueName": "C:\\Users\\CATAT\\AbstractFigure\\Figure\\Figure\\Figure.csproj",
       "projectName": "Figure",
-      "projectPath": "C:\\Users\\CATAT\\source\\repos\\Figure\\Figure\\Figure.csproj",
+      "projectPath": "C:\\Users\\CATAT\\AbstractFigure\\Figure\\Figure\\Figure.csproj",
       "packagesPath": "C:\\Users\\CATAT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CATAT\\source\\repos\\Figure\\Figure\\obj\\",
+      "outputPath": "C:\\Users\\CATAT\\AbstractFigure\\Figure\\Figure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CATAT\\AppData\\Roaming\\NuGet\\NuGet.Config",

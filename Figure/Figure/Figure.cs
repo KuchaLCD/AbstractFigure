@@ -9,7 +9,7 @@ namespace Figure
     abstract class Figure
     {
         string name;
-        public string Name { get { return name; } }
+        public string Name { get; set; }
         public abstract double getSqare();
         public abstract double getPerimetr();
         public abstract double getRatio();
