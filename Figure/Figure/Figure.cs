@@ -8,11 +8,13 @@ namespace Figure
 {
     abstract class Figure
     {
-        string name;
         public string Name { get; set; }
         public abstract double getSqare();
         public abstract double getPerimetr();
-        public abstract double getRatio();
+        public double getRatio(double s, double p)
+        {
+            return s / p;
+        }
         public abstract void About();
     }
 }

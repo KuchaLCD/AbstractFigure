@@ -12,12 +12,12 @@ namespace Figure
         public float Height { get; set; }
         public override double getPerimetr() => Width * 2 + Height * 2;
         public override double getSqare() => Width * Height;
-        public override double getRatio() => (Width * Height) / (Width * 2 + Height * 2);
         public override void About()
         {
             string inf = $"\n::::::::::::::::::::::::::::::::::::::::::::::::::::::\n---Прямоугольник---\nНаименование: {Name}" +
                          $"\nДлина: {Width} см" +
                          $"\nЩирина: {Height} см" +
+                         $"\nСоотношение: {getRatio(getSqare(), getPerimetr())} см" +
                          $"\n::::::::::::::::::::::::::::::::::::::::::::::::::::::";
             Console.WriteLine(inf);
         }
